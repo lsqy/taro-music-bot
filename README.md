@@ -1,6 +1,6 @@
-# taro-bot
+# taro-ui-bot
 
-> A GitHub App built with [Probot](https://github.com/probot/probot) that A bot app for Taro
+> A GitHub App built with [Probot](https://github.com/probot/probot) that A bot app for taro-ui
 
 ## Setup
 
@@ -23,4 +23,4 @@ For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
 ## License
 
-[ISC](LICENSE) © 2018 yuche <i@yuche.me>
+[ISC](LICENSE)

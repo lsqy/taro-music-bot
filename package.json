@@ -42,15 +42,6 @@
     "typescript": "^2.9.2",
     "typescript-eslint-parser": "^18.0.0"
   },
-  "now": {
-    "name": "taro-ui-bot",
-    "alias": "taro-ui-bot.now.sh",
-    "files": [
-      "src",
-      ".env",
-      "tsconfig.json"
-    ]
-  },
   "engines": {
     "node": ">= 8.3.0"
   },
