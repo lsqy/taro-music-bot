@@ -1,6 +1,6 @@
-# taro-ui-bot
+# taro-music-bot
 
-> A GitHub App built with [Probot](https://github.com/probot/probot) that A bot app for taro-ui
+> A GitHub App built with [Probot](https://github.com/probot/probot) that A bot app for taro-music
 
 ## Setup
 

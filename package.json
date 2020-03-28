@@ -1,12 +1,12 @@
 {
-  "name": "taro-ui-bot",
+  "name": "taro-music-bot",
   "version": "1.1.0",
-  "description": "A bot app for Taro-UI",
+  "description": "A bot app for taro-music",
   "author": "lsqy <lsqy93@gmail.com>",
   "license": "ISC",
-  "repository": "https://github.com/lsqy/taro-ui-bot.git",
-  "homepage": "https://github.com/lsqy/taro-ui-bot",
-  "bugs": "https://github.com/lsqy/taro-ui-bot/issues",
+  "repository": "https://github.com/lsqy/taro-music-bot.git",
+  "homepage": "https://github.com/lsqy/taro-music-bot",
+  "bugs": "https://github.com/lsqy/taro-music-bot/issues",
   "keywords": [
     "probot",
     "github",
